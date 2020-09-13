@@ -1,0 +1,3 @@
+pygame>=1.9.1
+uniseg>=0.7
+sge>=1.7
